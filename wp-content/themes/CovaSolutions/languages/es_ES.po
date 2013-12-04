@@ -1,0 +1,1421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CovaSolutions\n"
+"POT-Creation-Date: 2013-09-21 17:15-0600\n"
+"PO-Revision-Date: 2013-09-24 07:29-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "Error 404 - Page Not Found"
+msgstr "Error 404 - página no encontrada"
+
+#: ../archive.php:8
+msgid "Archive for the "
+msgstr "Archivar para el"
+
+#: ../archive.php:11
+msgid "Posts Tagged "
+msgstr "Entradas etiquetadas"
+
+#: ../archive.php:14 ../archive.php:17 ../archive.php:20
+msgid "Archive for "
+msgstr "Archivar para"
+
+#: ../archive.php:23
+msgid "Author Archive"
+msgstr "Archivos de autor"
+
+#: ../archive.php:26
+msgid "Blog Archives"
+msgstr "Archivos del blog"
+
+#: ../archive.php:52
+msgid "Nothing found"
+msgstr "No hay resultados"
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta entrada está protegida por una contraseña. Introduzca su contraseña "
+"para ver los comentarios."
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr "Los comentarios han sido cerrados"
+
+#: ../comments.php:54
+msgid "You must be"
+msgstr "Debes"
+
+#: ../comments.php:54
+msgid "logged in"
+msgstr "iniciar sesión"
+
+#: ../comments.php:54
+msgid "to post a comment."
+msgstr "para dejar un comentario"
+
+#: ../comments.php:61
+msgid "Logged in as"
+msgstr "Sesión iniciada como"
+
+#: ../comments.php:61
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#: ../comments.php:67
+msgid "Name"
+msgstr "Nombre"
+
+#: ../comments.php:72
+msgid "Mail (will not be published)"
+msgstr "Dirección de email (no será publicada)"
+
+#: ../comments.php:77
+msgid "Website"
+msgstr "Página web"
+
+#: ../company.php:13
+msgid "About CovaSolutions"
+msgstr "Quiénes somos"
+
+#: ../company.php:15
+msgid ""
+"Cova Solutions is a consulting firm providing assistance to Spanish "
+"companies moving their business operations abroad."
+msgstr ""
+"Cova Solutions es una consultora que facilita la implantación de empresas "
+"españolas en el extranjero."
+
+#: ../company.php:16
+msgid ""
+"Cova Solutions offers its clients alternative solutions for a rapid and cost-"
+"effective entry into the target market."
+msgstr ""
+"Cova Solutions ofrece una solución alternativa más rápida y efectiva para el "
+"mercado objetivo."
+
+#: ../company.php:17
+msgid ""
+"CovaSolutions knowledgeable team will help you and your company develop and "
+"implement winning strategies in the global arena."
+msgstr ""
+"Cova Solutions y sus aliados globales contrubuyen a que su compañía "
+"desarrolle y ponga en marcha estrategias ganadoras para un posicionamiento "
+"global."
+
+#: ../company.php:19
+msgid "Our Work"
+msgstr "Nuestro trabajo"
+
+#: ../company.php:20
+msgid ""
+"Our work is based on the constant observation of real life corporate "
+"situations experienced by Spanish companies landing abroad. Replicate proven "
+"strategies and avoid major mistakes."
+msgstr ""
+"Nuestro trabajo se hace posible gracias a la observación de las experiencias "
+"vividas por otras empresas españolas durante su expansión global. Buscamos "
+"replicar las estrategias de éxito y evitar cometer los errores más comunes. "
+
+#: ../company.php:21
+msgid ""
+"More than 8 years of observation led us to build the MBO Business Workshop "
+"and the MBO Business Development method. Our workshops trains business "
+"executives and expatriates on Spain-US business practices and our MBO "
+"Business Development program divided by phases ensures the most cost "
+"effective assistance during the internacionalization process."
+msgstr ""
+"Más de 8 años de experiencia y observación avalan el método MBO (Moving "
+"Business Operations) que Cova Solutions ha desarrollado para preparar a los "
+"directivos y a sus equipos y asistirles durante su expansión. Esto se "
+"consigue gracias al taller MBO de capacitación para directivos y expatriados "
+"y al programa MBO de desarrollo de negocio por fases."
+
+#: ../company.php:22
+msgid ""
+"One of our critical success factors in our work is the personal experience "
+"of our team, every team member has lived and worked in Spain and the US, has "
+"a powerful network in the two countries and has had to face different "
+"cultural values and business practices during their careers between the two "
+"countries. Our work is to inform, to train and  to connect the unconnected."
+msgstr ""
+"Uno de los factores críticos del éxito de nuestro trabajo es nuestro equipo, "
+"compuesto por profesionales que han vivido y trabajado en España y los EE."
+"UU. donde han desarrollado un fueste red de contactos y donde han tenido que "
+"enfrentarse personalmente a muchas de las barreras que procuramos solventar. "
+"Nuestro MBO consiste en formar, informar y conectar lo que no está "
+"conectado. "
+
+#: ../company.php:35
+msgid "Some of our partners and clients include:"
+msgstr "Algunos de nuestros clientes y colaboradores incluyen:"
+
+#: ../contact-us.php:12
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: ../cross-market-consulting.php:13
+msgid "Moving Business Operations (MBO) Services"
+msgstr "Servicios MBO"
+
+#: ../cross-market-consulting.php:14
+msgid ""
+"Your investment in the US is more reliable and easy to control thanks to our "
+"11 month method, a business development program divided into 4 phases. Each "
+"phase is designed based on our accumulated experience and will ensure the "
+"optimal utilization of your company resources. Our goal is to bring you to a "
+"point where you and your team will be capable of making an educated decision "
+"regarding your investment and your opportunities in the US market. This is "
+"possible after 11 months of monitored business development work in the "
+"selected US area. "
+msgstr ""
+"Su inversión en los EE.UU. es más fiable y fácil de controlar gracias a "
+"nuestro método de 11 meses, un programa de desarrollo de negocios dividido "
+"en fases * Cada fase está diseñada en base a nuestra experiencia y asegura "
+"la utilización óptima de los recursos de la empresa en cada momento."
+
+#: ../cross-market-consulting.php:15 ../services.php:45
+msgid "Moving Business Operations SPAIN-USA Workshop"
+msgstr " Jornada de Internacionalización de negocios MBO SPAIN-USA"
+
+#: ../cross-market-consulting.php:16 ../services.php:46
+msgid "Moving Business Operations Spain-USA Method"
+msgstr "Método MBO de internacionalización de negocios SPAIN-USA"
+
+#: ../cross-market-consulting.php:22
+msgid "Moving Business Operations Workshop"
+msgstr "Seminarios MBO de traslado de operaciones al extranjero"
+
+#: ../cross-market-consulting.php:23
+msgid "What is the MBO workshop about?"
+msgstr "¿En qué consiste una jornada MBO?"
+
+#: ../cross-market-consulting.php:24
+msgid ""
+"Moving Business Operations is an 8 hour interactive workshop* for managers "
+"involved or looking to be involved in an international business expansion."
+msgstr ""
+"MBO es un seminario interactivo de 8 horas para equipos directivos "
+"implicados o pensando en abordar una expansión internacional."
+
+#: ../cross-market-consulting.php:25
+msgid ""
+"MBO workshops are geared to finding business opportunities and/or partners "
+"for companies from in both sides of the Atlantic."
+msgstr ""
+"Las jornadas MBO están orientadas a encontrar oportunidades de negocio y "
+"socios para compañías a ambos lados del Atlántico."
+
+#: ../cross-market-consulting.php:26
+msgid ""
+"The main objectives of our MBO workshops and and business virtual meetings "
+"can be divided in three:"
+msgstr ""
+"Los principales objetivos de los talleres MBO y encuentros de negocios "
+"virtuales pueden dividirse en tres:"
+
+#: ../cross-market-consulting.php:28
+msgid ""
+"To create a meeting point for our sponsors and collaborators to present "
+"their companies and services to companies interested in doing business "
+"abroad, particularly in the US market."
+msgstr ""
+"Crear un punto de encuentro para que nuestros patrocinadores y colaboradores "
+"presenten sus servicios a compañías interesadas en expandir su actividad al "
+"extranjero, particularmente en los Estados Unidos."
+
+#: ../cross-market-consulting.php:29
+msgid ""
+"To give attendees the opportunity to network and find partners and business "
+"opportunities as well as trusted service providers."
+msgstr ""
+"Dar a los participantes la portunidad de establecer valiosos contactos y "
+"conocer a posibles proveedores de nuestra confianza."
+
+#: ../cross-market-consulting.php:30
+msgid ""
+"To give attendees the opportunity to ask direct questions to the MBO "
+"speakers who are specialist in judicial, financing and business cultural "
+"practices between the two countries."
+msgstr ""
+"Dar a los participantes las oportunidad de hacer peguntas directas a los "
+"ponentes, especialistas en el ámbito jurídico y financiero internacional."
+
+#: ../cross-market-consulting.php:32
+msgid "Why is MBO beneficial to your organization?"
+msgstr "¿Por qué MBO es beneficioso para su organización? "
+
+#: ../cross-market-consulting.php:33
+msgid ""
+"This series of workshops aim to increase the competitiveness of Spanish "
+"companies operating or looking to operate in the US market. "
+msgstr ""
+"Este tipo de seminarios aumenta la competitividad de su empresa pues sienta "
+"las bases del conocimiento de mercado y establece los primeros contactos "
+"clave en el país objetivo."
+
+#: ../cross-market-consulting.php:34
+msgid ""
+"By participating in the MBO workshop as an attendee, you will have the "
+"opportunity to meet some of the most reliable professionals in the Spain-US "
+"business development arena. Interested in becoming a sponsor? By "
+"participating in the MBO as a collaborator, sponsor or speaker your "
+"organization will have the opportunity to: "
+msgstr ""
+"Al participar en el taller de MBO como asistente, usted tendrá la "
+"oportunidad de conocer a algunos de los profesionales más experimentados en "
+"el ámbito del desarrollo empresarial España-Estados Unidos. ¿Interesado en "
+"un patrocinio?  Al participar en el MBO como colaborador, patrocinador o "
+"representante de la organización tendrá la oportunidad de:"
+
+#: ../cross-market-consulting.php:36
+msgid ""
+"Address workshop attendees on a one on one basis through a short "
+"presentation "
+msgstr ""
+"Presentar sus servicios especializados de forma personalizada a una "
+"audiencia reducida"
+
+#: ../cross-market-consulting.php:37
+msgid ""
+"Increase your client portfolio with companies that are really commited to "
+"perform in the US market"
+msgstr ""
+"Aumentar su cartera de clientes cualificados y seleccionados por el programa "
+"MBO como aptos para abordar mercados exteriores. "
+
+#: ../cross-market-consulting.php:38
+msgid ""
+"Network and gain significant exposure in the US >< Spain corporate community "
+msgstr ""
+"Establecer contactos y aumentar su visibilidad en la comunidad corporativa "
+"global."
+
+#: ../cross-market-consulting.php:40
+msgid "What is the intended life cycle of the MBO workshop series?"
+msgstr ""
+"¿Cuál es el ciclo de vida esperado para el programa de formación y "
+"desarrollo de negocio MBO?"
+
+#: ../cross-market-consulting.php:41
+msgid ""
+"The MBO workshop series is created to become a recognized periodical "
+"educational training session offered through the US-Spain chambers of "
+"Commerce and any other interested private entities."
+msgstr ""
+"MBO ofrece sesiones periódicas para convertirse en una reconocida plataforma "
+"educativa y de capacitación empresarial. Las sesiones formativas se ofrecen "
+"a través de las cámaras de comercio y las entidades privadas interesadas que "
+"lo soliciten."
+
+#: ../cross-market-consulting.php:42
+msgid ""
+"The workshop is normally offered in Spain and is divided in two modules "
+"(morning and afternoon) Workshop hours are from 10 am to 8 pm Spanish time."
+msgstr ""
+"Las jornadas formativas se ofrecen normalmente en España y se dividen en dos "
+"módulos (mañana y tarde). El horario de la jornada es de 10 am a 8 pm hora "
+"española."
+
+#: ../cross-market-consulting.php:43
+msgid ""
+"The morning module will cover typical MBO topics of interest to Spanish "
+"Executives and the afternoon module contemplates a virtual meeting (3.5 hour "
+"session) between companies of both sides of the Atlantic. The companies are "
+"expected to introduce themselves and discuss interesting topics with the "
+"help of two moderators."
+msgstr ""
+"En el módulo de la mañana se tratan temas MBO  de interés para los "
+"directivos españoles y el módulo de la tarde contempla una reunión virtual "
+"(sesión de 3,5 horas de duración) entre empresas de ambos lados del "
+"Atlántico. Se espera que las empresas asistentes traten temas de interés y "
+"exploren oportunidades de negocio con la ayuda de dos moderadores."
+
+#: ../cross-market-consulting.php:44
+msgid "Sample Sectorail MBO Agenda"
+msgstr "Modelo de jornada MBO sectorial"
+
+#: ../cross-market-consulting.php:46
+msgid "A new energetic model for the US "
+msgstr "Un nuevo modelo energético para los EE.UU."
+
+#: ../cross-market-consulting.php:47
+msgid "Energy Efficiency in the private sector "
+msgstr "Eficiencia energética en el sector privado"
+
+#: ../cross-market-consulting.php:48
+msgid "Business Opportunities Spain-Texas "
+msgstr "Oportunidades de negocio entre EE.UU. Y España"
+
+#: ../cross-market-consulting.php:50
+msgid "A simple MBO Agenda from past editions includes:"
+msgstr "Un ejemplo de orden del día de jornadas MBO pasadas incluye:"
+
+#: ../cross-market-consulting.php:52
+msgid "10:00 AM - Opening"
+msgstr "10:00 AM - Apertura del acto"
+
+#: ../cross-market-consulting.php:53
+msgid "10:15 AM - US Market Remarks & Human Capital Management Spain-US"
+msgstr "10.15 AM - Notas de mercado estadounidense y gestión de capital humano"
+
+#: ../cross-market-consulting.php:54
+msgid "10:35 AM - Legal Barriers Spain-US"
+msgstr "10:35 AM - Barreras legales en EE.UU."
+
+#: ../cross-market-consulting.php:55
+msgid "11:05 AM - Business Opportunities Spain-US"
+msgstr "11:05 AM - Oportunidades de negocio en EE.UU. "
+
+#: ../cross-market-consulting.php:56
+msgid "12:05 AM - The Need for Financial Services in the US"
+msgstr "12:05 AM - La necesidad de servicios financieros en EE.UU."
+
+#: ../cross-market-consulting.php:57
+msgid "13:25 AM - Entering the US Market"
+msgstr "13:25 AM - Penetrar el mercado estadounidense"
+
+#: ../cross-market-consulting.php:58
+msgid "16:00 PM - Virtual Business Meeting Introductions"
+msgstr "16:00 PM - Presentaciones. Reunión virtual de negocios."
+
+#: ../cross-market-consulting.php:59
+msgid "17:45 PM - Virtual Business Meeting and RoundTable Spain-US"
+msgstr "17:45 PM - Reunión virtual de negocios y mesa redonda España-EE.UU."
+
+#: ../cross-market-consulting.php:61
+msgid "Request an in-company Workshop"
+msgstr "*Solicite una jornada MBO en su compañía"
+
+#: ../cross-market-consulting.php:63
+msgid "The MBO (Moving Business Operations) Method"
+msgstr "El método MBO (Traslado de operaciones de negocios)"
+
+#: ../cross-market-consulting.php:65
+msgid ""
+"Your investment in the US is more reliable and easy to control thanks to our "
+"11month method, a business development program divided by phases*. Each "
+"phase is designed based on our accumulated experience and will ensure the "
+"optimal utilization of your company resources."
+msgstr ""
+"Su inversión en los EE.UU. es más fiable y fácil de controlar gracias a "
+"nuestro método de 11 meses, un programa de desarrollo de negocios dividido "
+"en fases * Cada fase está diseñada en base a nuestra experiencia y asegura "
+"la utilización óptima de los recursos de la empresa en cada momento."
+
+#: ../cross-market-consulting.php:67
+msgid "NOTE: Please note that phase 3 and 4 must be contracted together."
+msgstr "IMPORTANTE: Las fases 3 y 4 deben ser contratadas conjuntamente."
+
+#: ../cross-market-consulting.php:69
+msgid ""
+"Our goal is to bring you to a point where you and your team will be capable "
+"of making an educated decision regarding your investment and your "
+"opportunities in the foreign market. This is possible after 11 months of "
+"monitored business development work in the selected area."
+msgstr ""
+"Nuestro objetivo es llevar a su empresa a un punto en el que usted y su "
+"equipo puedan tomar decisiones educadas con respecto a su inversión y a sus "
+"oportunidades en el mercado de su elección. Esto es posible tras 11 meses de "
+"intenso trabajo de desarrollo de negocios en el área de su elección."
+
+#: ../cross-market-consulting.php:80 ../services.php:24
+msgid "Initial Project Assessment"
+msgstr "Evaluación inicial del proyecto"
+
+#: ../cross-market-consulting.php:82
+msgid "Study of Business Plan"
+msgstr "Estudio del plan de negocio"
+
+#: ../cross-market-consulting.php:83
+msgid "Opportunity analysis"
+msgstr "Análisis de oportunidades"
+
+#: ../cross-market-consulting.php:84
+msgid "Election of target State (s) / region"
+msgstr "Elección de la región o estado objetivo"
+
+#: ../cross-market-consulting.php:85
+msgid "1st team meeting"
+msgstr "1a reunión de equipo"
+
+#: ../cross-market-consulting.php:86
+msgid "Review US Marketing Plan"
+msgstr "Revisión del plan de negocio"
+
+#: ../cross-market-consulting.php:87
+msgid "Needs Assessment"
+msgstr "Evaluación de necesidades"
+
+#: ../cross-market-consulting.php:88
+msgid "Introduction to the suggested MBO Team"
+msgstr "Presentación del equipo propuesto para el proyecto MBO"
+
+#: ../cross-market-consulting.php:89
+msgid "Conclusion proposal"
+msgstr "Conclusión de la propuesta"
+
+#: ../cross-market-consulting.php:91
+msgid "Business Prospecting"
+msgstr "Prospección de negocio"
+
+#: ../cross-market-consulting.php:93
+msgid "Preparation Tasks"
+msgstr "Tareas de preparación"
+
+#: ../cross-market-consulting.php:94
+msgid "Changes to Business Plan"
+msgstr "Cambios al plan de negocio"
+
+#: ../cross-market-consulting.php:95
+msgid "Business Plan Adaptation/Localization"
+msgstr "Adaptación y localización del plan de negocio"
+
+#: ../cross-market-consulting.php:96
+msgid "Translation of documents (as needed)"
+msgstr "Traducción de documentos"
+
+#: ../cross-market-consulting.php:97
+msgid "Cultural Training"
+msgstr "Formación cultural"
+
+#: ../cross-market-consulting.php:98
+msgid "Business Training "
+msgstr "Formacion empresarial"
+
+#: ../cross-market-consulting.php:99
+msgid "SPAIN-US Strategy Definition"
+msgstr "Definición de la estrategia local"
+
+#: ../cross-market-consulting.php:100
+msgid "Identification of Key Members"
+msgstr "Identificación de miembros clave"
+
+#: ../cross-market-consulting.php:101
+msgid "Logistic Planning "
+msgstr "Planificación logística"
+
+#: ../cross-market-consulting.php:102
+msgid "Sample Shipping (if needed)"
+msgstr "Envío de muestras (si fuese necesario)"
+
+#: ../cross-market-consulting.php:103
+msgid "Choosing travel dates"
+msgstr "Elección de fechas de viaje"
+
+#: ../cross-market-consulting.php:104
+msgid "Objectives Short / Medium / Long term"
+msgstr "Objetivos a corto/medio y largo plazo"
+
+#: ../cross-market-consulting.php:106
+msgid "MBO Process"
+msgstr "Proceso MBO"
+
+#: ../cross-market-consulting.php:108
+msgid "Business Development Trip 1"
+msgstr "Viaje de desarrollo de negocio 1"
+
+#: ../cross-market-consulting.php:109
+msgid "Meet Prospect Buyers"
+msgstr "Encuentro con posibles compradores"
+
+#: ../cross-market-consulting.php:110
+msgid "Meet Potential Local Partners"
+msgstr "Encuentro con posibles socios"
+
+#: ../cross-market-consulting.php:111
+msgid "Meet Collaborators"
+msgstr "Encuentro con colaboradores"
+
+#: ../cross-market-consulting.php:112
+msgid "Meet Vendors"
+msgstr "Encuentro con proveedores"
+
+#: ../cross-market-consulting.php:113
+msgid "Meet Politicians "
+msgstr "Encuentro con políticos"
+
+#: ../cross-market-consulting.php:114
+msgid "Team Test"
+msgstr "Pruebas de equipo"
+
+#: ../cross-market-consulting.php:115
+msgid "Market Test"
+msgstr "Pruebas de mercado"
+
+#: ../cross-market-consulting.php:116
+msgid "Trip Follow Up"
+msgstr "Seguimiento del viaje"
+
+#: ../cross-market-consulting.php:117
+msgid "Change Implementation"
+msgstr "Ejecución de cambios  y adaptaciones"
+
+#: ../cross-market-consulting.php:118
+msgid "Business Development Trip 2"
+msgstr "Viaje de desarrollo de negocio 2"
+
+#: ../cross-market-consulting.php:119
+msgid "Presentation of Adapted Product / Service"
+msgstr "Presentación del producto o servicio adaptado"
+
+#: ../cross-market-consulting.php:120
+msgid "Reach Agreements"
+msgstr "Alcance de acuerdos"
+
+#: ../cross-market-consulting.php:121
+msgid "Hire a Rep (if needed)"
+msgstr "Contratación de un representante (si fuese necesario)"
+
+#: ../cross-market-consulting.php:122
+msgid "Final Follow Up"
+msgstr "Seguimiento final"
+
+#: ../cross-market-consulting.php:124
+msgid "Program Wrap Up"
+msgstr "Cierre del programa"
+
+#: ../cross-market-consulting.php:126
+msgid "Results Analysis & Planning "
+msgstr "Análisis de resultados y planificación "
+
+#: ../cross-market-consulting.php:127
+msgid "Wrap Up Meeting"
+msgstr "Reunión de cierre"
+
+#: ../cross-market-consulting.php:128 ../cross-market-consulting.php:132
+msgid "Request an in-company Assessment"
+msgstr "Solicite una evaluación para su empresa"
+
+#: ../footer.php:5
+msgid "Contact CovaSolutions"
+msgstr "Contacte CovaSolutions"
+
+#: ../footer.php:10
+msgid "Main Office"
+msgstr "Oficina principal"
+
+#: ../footer.php:12
+msgid "501 Cambria Ave. Suite 107"
+msgstr "501 Cambria Avenue, Suite 107"
+
+#: ../footer.php:13
+msgid "Bensalem, PA 19020"
+msgstr "Bensalem, PA 19020"
+
+#: ../footer.php:14
+msgid "Map this location"
+msgstr "Mostrar en el mapa"
+
+#: ../footer.php:17
+msgid "Phone: (+1) 215 253 3747"
+msgstr "Teléfono: +34 696 051 562 / +1 215 253 3747"
+
+#: ../footer.php:18
+msgid "Fax: (+1) 215.689.4295"
+msgstr "Fax: +1 215 689 4295"
+
+#: ../footer.php:19
+msgid "Email: "
+msgstr "Email:"
+
+#: ../footer.php:30
+msgid "Follow CovaSolutions"
+msgstr "Seguir a CovaSolutions"
+
+#: ../footer.php:47
+msgid "Send Us a Message"
+msgstr "Enviar mensaje"
+
+#: ../header.php:144
+msgid "View site in:"
+msgstr "Ver sitio web en:"
+
+#: ../header.php:149
+msgid "COMPANY"
+msgstr "EMPRESA"
+
+#: ../header.php:152
+msgid "SERVICES"
+msgstr "SERVICIOS"
+
+#: ../header.php:157 ../services.php:42
+msgid "Cross Market Consulting"
+msgstr "Consultoría de expansión internacional"
+
+#: ../header.php:158
+msgid ""
+"We assist our clients during pivotal MBO times before and upon arrival to "
+"Spain or the United States."
+msgstr ""
+"Asistimos a nuestros clientes durante el traslado de sus operaciones de "
+"negocios"
+
+#: ../header.php:164 ../language-services.php:13 ../services.php:56
+msgid "Language Services"
+msgstr "Servicios lingüísticos"
+
+#: ../header.php:165
+msgid ""
+"Offering new and smarter solutions for internationalization of the US and "
+"Spanish company moving from one market to the other."
+msgstr ""
+"Ofrecemos servicios creativos para el traslado de la empresa española a "
+"otros mercados."
+
+#: ../header.php:170
+msgid "NEWS"
+msgstr "NOTICIAS"
+
+#: ../header.php:171
+msgid "CONTACT US"
+msgstr "CONTACTO"
+
+#: ../home.php:14
+msgid "GROWTH STARTS TODAY"
+msgstr "SU EXPANSIÓN EMPIEZA HOY"
+
+#: ../home.php:15
+msgid ""
+"The US is the perfect ground to monitor your company´s global expansion."
+msgstr ""
+"Los EE.UU. son el lugar perfecto para monitorizar la expansión internacional "
+"de su empresa"
+
+#: ../home.php:16 ../home.php:26 ../home.php:36 ../home.php:46 ../home.php:56
+#: ../home.php:73
+msgid "learn more"
+msgstr "más información"
+
+#: ../home.php:24
+msgid "GET RESULTS"
+msgstr "OBTENGA RESULTADOS"
+
+#: ../home.php:25
+msgid ""
+"Gain access to our extensive US network of influential people and decision "
+"makers. Meeting people is important. Meeting the right people is the key."
+msgstr ""
+"Acceda a nuestra amplia red de personas influyentes y responsables de "
+"negocio en EE.UU. Conocer gente es importante. Conocer a las personas "
+"adecuadas es la clave."
+
+#: ../home.php:34
+msgid "CROSS MARKET KNOWLEDGE AT YOUR FINGERTIPS"
+msgstr "KNOW HOW INTERNACIONAL A SU ALCANCE"
+
+#: ../home.php:35
+msgid ""
+"CovaSolutions partners are a reference in the international expansion of the "
+"Spanish company, particularly in the Spain-US business arena."
+msgstr ""
+"Los socios colaboradores de CovaSolutions son un referente en la expansión "
+"internacional de la empresa española, especialmente en la franja de comercio "
+"entre España y EE.UU."
+
+#: ../home.php:44
+msgid "MANAGE YOUR INVESTMENT"
+msgstr "CONTROLE SU INVERSIÓN"
+
+#: ../home.php:45
+msgid ""
+"Our MBO business development method allows you to monitor your US investment "
+"thanks to a set amount of time and money."
+msgstr ""
+"Nuestro sistema MBO le permite monitorizar su inversión gracias a unos "
+"recursos temporales y monetarios pre-establecidos"
+
+#: ../home.php:54
+msgid "MANAGE YOUR COSTS"
+msgstr "CONTROLE SUS GASTOS "
+
+#: ../home.php:55
+msgid ""
+"Exploring your business opportunities in the US market has never been made "
+"this cost-effective."
+msgstr ""
+"Explorar sus oportunidades de negocio en los EE.UU. nunca había sido tan "
+"efectivo."
+
+#: ../home.php:68
+msgid "Speaking the language of success"
+msgstr "Hablamos el idioma del éxito"
+
+#: ../home.php:71
+msgid "Who we are"
+msgstr "Quiénes somos"
+
+#: ../home.php:72
+msgid ""
+"CovaSolutions is dedicated to assisting companies and managers moving "
+"business operations abroad, particularly to the United States but also to "
+"other markets in Central and South America. We understand the difficulties "
+"that medium and small size companies might face during its landing period in "
+"foreign markets and we recognize the unique opportunity to assist Spanish "
+"companies therein. We believe that we can take your companies to markets "
+"that are currently is in its growing stage and that we are uniquely "
+"positioned to assist you in several pivotal areas such as brand-recognition, "
+"marketing, monitoring and promotional activities. Our experienced team "
+"strive to provide your company with the cultural proficiency and competitive "
+"marketing edge required to excel in your new environment."
+msgstr ""
+"CovaSolutions asiste a empresas y a directivos españoles durante el traslado "
+"de sus operaciones comerciales al extranjero, particularmente a los Estados "
+"Unidos de América pero también a otros mercados de América Central y América "
+"Latina. Somos conscientes de las dificultades a las que se enfrentan las "
+"empresas españolas medianas y pequeñas durante su período de aterrizaje en "
+"los mercados exteriores y reconocemos la oportunidad única de poder "
+"optimizar recursos durante la etapa de aterrizaje en el mercado. Creemos que "
+"podemos trasladar empresas a mercados que actualmente se encuentran en su "
+"etapa de crecimiento y estamos en una posición única para ayudar en varias "
+"áreas cruciales tales como reconocimiento de marca, marketing, seguimiento y "
+"actividades de promoción. Nuestro experimentado equipo se esfuerza en "
+"proporcionar la competencia cultural y la ventaja de márketing estratégico "
+"necesaria para sobresalir en el nuevo entorno."
+
+#: ../home.php:76
+msgid "Latest News"
+msgstr "Noticias recientes"
+
+#: ../home.php:92
+msgid "view all news"
+msgstr "ver todas las noticias"
+
+#: ../home.php:96
+msgid "Latest Tweets"
+msgstr "Últimos tweets"
+
+#: ../home.php:97
+msgid "Tweets from @CovaSolutions"
+msgstr "Tweets de @CovaSolutions"
+
+#: ../home.php:98
+msgid "view all tweets from @CovaSolutions"
+msgstr "ver todos los tweets de CovaSolutions"
+
+#: ../index.php:17
+msgid "Posted in"
+msgstr "Colgado en"
+
+#: ../index.php:29
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: ../language-services.php:14
+msgid ""
+"We guarantee a consistently excellent quality of translation services in "
+"each of our projects by making sure we assign every document to the most "
+"appropriate specialised team. Covalingua only works with senior qualified "
+"translators, proofreaders and editors, this results in the reliable and "
+"professional translation service that our regular customers value."
+msgstr ""
+"Garantizamos un excelente en calidad de servicios de traducción en cada uno "
+"de nuestros proyectos, asegurándose de que asignamos cada documento al "
+"equipo especializado más adecuado. Covalingua sólo trabaja con traductores "
+"titulados superiores, correctores y editores, esto se traduce en el servicio "
+"de traducción confiable y profesional que nuestros clientes valoran regular."
+
+#: ../language-services.php:15
+msgid ""
+"Document translations can be certified, notarized and legalised to meet your "
+"exact requirements."
+msgstr ""
+"Traducción de documentos pueden ser certificadas, notariadas y legalizadas "
+"para satisfacer sus necesidades."
+
+#: ../language-services.php:16
+msgid ""
+"Our translation agency also provides interpreting services in Spain and the "
+"US."
+msgstr ""
+"Nuestra agencia de traducción ofrece también servicios de interpretación en "
+"España y los EE.UU.."
+
+#: ../language-services.php:17 ../language-services.php:31 ../services.php:60
+msgid "Document Translation"
+msgstr "Traducción de documentos"
+
+#: ../language-services.php:18 ../language-services.php:70 ../services.php:61
+msgid "Language Training"
+msgstr "Cursos de idiomas"
+
+#: ../language-services.php:19 ../language-services.php:72 ../services.php:62
+msgid "Document Proofreading"
+msgstr "Revisión de documentos"
+
+#: ../language-services.php:20 ../language-services.php:75 ../services.php:63
+msgid "Document Editing / Adaptation"
+msgstr "Edición y adaptación de documentos"
+
+#: ../language-services.php:21 ../language-services.php:77 ../services.php:64
+msgid "Professional Interpreting"
+msgstr "Interpretación profesional"
+
+#: ../language-services.php:22 ../services.php:65
+msgid "Business Cultural Consulting between Spain>US>Spain"
+msgstr "Consultoría cultural para hacer negocios en otros países"
+
+#: ../language-services.php:23 ../language-services.php:90
+#: ../language-services.php:116 ../services.php:66
+msgid "Business Relocation Consulting for Business Expats"
+msgstr "Servicios de movilidad para el equipo expatriado"
+
+#: ../language-services.php:24 ../language-services.php:93 ../services.php:67
+msgid "Project Management"
+msgstr "Gestión de proyectos"
+
+#: ../language-services.php:25 ../language-services.php:97 ../services.php:68
+msgid "Seminars and Workshops"
+msgstr "Jornadas y talleres"
+
+#: ../language-services.php:32
+msgid ""
+"Translation consists of rendering a written text from the language in which "
+"it was originally written (the source language) to a different language (the "
+"target language). At Covalingua, a typical translation project involves a "
+"professional translator working into their native language, a second "
+"linguist who proofreads the translation, and our internal Quality Control "
+"process designed to ensure the highest quality standards."
+msgstr ""
+"La traducción consiste en comprender el significado de un texto escrito en "
+"un idioma, llamado texto origen para poder producir un texto con significado "
+"equivalente, en otro idioma, llamado texto meta.  En Covalingua, un proyecto "
+"de traducción  típico implica un traductor profesional que trabaja en hacia "
+"su lengua materna, un segundo lingüísta que corrigeposibles errores de la "
+"traducción, y controlador de calidad interno que asegure los más altos "
+"estándares de calidad."
+
+#: ../language-services.php:34
+msgid ""
+"Covalingua LLC provides a wide range of translation services in different "
+"fields. Below you will find examples of some of our most recent field-"
+"related projects."
+msgstr ""
+"Covalingua LLC proporciona diversos servicios lingüísticos en diferentes "
+"campos de especialización. A continuación encontrará ejemplos de nuestros "
+"campos más habituales:"
+
+#: ../language-services.php:38
+msgid "Legal Documents Translation (Sworn)"
+msgstr "Documentos legales y traducciones juradas"
+
+#: ../language-services.php:39
+msgid "Medical Case Management"
+msgstr "Gestión de casos médicos complejos"
+
+#: ../language-services.php:40
+msgid "Insurance Documents"
+msgstr "Documentación de compañías aseguradoras"
+
+#: ../language-services.php:41
+msgid "Marketing Materials"
+msgstr "Material promocional y  de márketing especializado"
+
+#: ../language-services.php:42
+msgid "Educational Credentials"
+msgstr "Credenciales académicas"
+
+#: ../language-services.php:43
+msgid "Depositions and transcriptions"
+msgstr "Declaraciones juradas"
+
+#: ../language-services.php:44
+msgid "Business Status Reports"
+msgstr "Informes de actualización"
+
+#: ../language-services.php:45
+msgid "General Business Agreements"
+msgstr "Acuerdos contractuales de negocios"
+
+#: ../language-services.php:46
+msgid "Conference Calls"
+msgstr "Llamadas por vídeo conferencia"
+
+#: ../language-services.php:47
+msgid "Health and Safety Materials"
+msgstr "Documentación sanitaria y de seguridad laboral"
+
+#: ../language-services.php:52
+msgid "Wine Industry Documents"
+msgstr "Documentos del sector vinícola"
+
+#: ../language-services.php:53
+msgid "Packaging and Manuals"
+msgstr "Contenidos para material de embalaje"
+
+#: ../language-services.php:54
+msgid "Multilingual Menus"
+msgstr "Menús para restaurantes y cruceros"
+
+#: ../language-services.php:55
+msgid "Official Communications"
+msgstr "Comunicaciones oficiales"
+
+#: ../language-services.php:56
+msgid "Escort Interpreting for Business People"
+msgstr "Interpretación de acompañante"
+
+#: ../language-services.php:57
+msgid "Medical Interpreting"
+msgstr "Interpretación médica especializada"
+
+#: ../language-services.php:58
+msgid "On-site Interpreting"
+msgstr "Interpretación Simultánea"
+
+#: ../language-services.php:59
+msgid "Simultaneous Interpreting"
+msgstr "Interpretación en las instalaciones del cliente"
+
+#: ../language-services.php:60
+msgid "Procedures and User Manuals"
+msgstr "Procedimientos corporativos y manuales de usuario"
+
+#: ../language-services.php:61
+msgid "and more!"
+msgstr "y mucho más!"
+
+#: ../language-services.php:67 ../language-services.php:74
+msgid "Contact us"
+msgstr "Contacte con nosotros"
+
+#: ../language-services.php:67
+msgid ""
+" to discuss your translation language needs, free quote or see how a "
+"translation project works."
+msgstr ""
+"para determinar sus necesidades lingüísticas, solicitar un presupuesto sin "
+"compromiso o aprender cómo gestionamos un proyecto de traducción."
+
+#: ../language-services.php:71
+msgid ""
+"Covalingua offers private language lessons and small group lessons for busy "
+"professionals looking to improve their language skills."
+msgstr ""
+"Covalingua ofrece lecciones privadas para grupos reducidos y profesionales "
+"que busquen mejorar sus competencias lingüísticas. "
+
+#: ../language-services.php:73
+msgid ""
+"A proofreader is a second pair of eyes (also a translator) looking for "
+"translation errors on the translated document."
+msgstr ""
+"Un revisor es un segundo par de ojos (también traductor) que busca errores "
+"de traducción en el texto ya traducido medianta una coparación de texto "
+"origen y texto meta."
+
+#: ../language-services.php:74
+msgid "to discuss your translation language needs"
+msgstr "para hablar de sus necesidades lingüísticas"
+
+#: ../language-services.php:74
+msgid "get a free quote,"
+msgstr "solicitar un presupuesto"
+
+#: ../language-services.php:74
+msgid "or"
+msgstr "o"
+
+#: ../language-services.php:74
+msgid "see how a translation project works."
+msgstr "ver cómo funciona un proyecto de traducción"
+
+#: ../language-services.php:76
+msgid ""
+"An editor will correct your existing document or the translated document for "
+"spelling, grammar and typographical errors. An editor will also adapt your "
+"text to a particular audience."
+msgstr ""
+"Un editor profesional corregirá cualquier error gramatical y orto-"
+"tipográfico del documento original o traducido. Un editor también puede "
+"adaptar su texto al público específico al que vaya dirigido."
+
+#: ../language-services.php:78
+msgid ""
+"Interpreting services are now becoming crucial to businesses both large and "
+"small. We provide different types of interpreting services you can choose "
+"from to best suit your needs, for example; Consecutive interpreting and "
+"Simultaneous interpreting."
+msgstr ""
+"Los servicios de interpretación se han convertido en un apoyo crucial para "
+"grandes y pequeñas empresas. Ofrecemos distintos servicios de interpretación "
+"(consecutiva, simultánea, etc.) que se pueden adaptar a sus necesidades "
+"específicas."
+
+#: ../language-services.php:79
+msgid ""
+"Consecutive interpreting is the most commonly requested as it is the easiest "
+"service to arrange and set up. A consecutive interpreter will wait until the "
+"end of the speaker’s sentence before interpreting."
+msgstr ""
+"La interpretación consecutiva es la modalidad de interpretación más común ya "
+"que es la más fácil de coordinar y gestionar. Durante la interpretación "
+"consecutiva, el intérprete espera a que el orador termine una frase antes de "
+"empezar a interpretar."
+
+#: ../language-services.php:80
+msgid ""
+"Simultaneous interpreting takes a bit more setting up and is ideal for "
+"situations where there are people present who speak many different "
+"languages. You may have seen simultaneous interpreting in action at "
+"international conferences or meetings. Simultaneous interpreting requires "
+"interpreters working in teams of 2 or 3 in sound-proofed booths. "
+"Interpreters interpret what the speaker is saying as they are saying it into "
+"a microphone, and the delegates listen through headsets."
+msgstr ""
+"La interpretación simultánea requiere un poco más de organización previa y "
+"es ideal para situaciones en las que concurren varias personas que no hablan "
+"el mismo idioma. Probablemente haya visto cómo trabajan los intérpretes de "
+"simultánea en congresos o reuniones internacionales. En interpretación "
+"simultánea, los intérpretes trabajan en equipos de 2 o 3 profesionales en "
+"cabinas insonorizadas. Los intérpretes de simultánea interpretan lo que el "
+"orador va diciendo en tiempo real, y los oyentes escuchan el discurso "
+"mediante la utilización de cascos."
+
+#: ../language-services.php:81
+msgid "Business Cultural Consulting"
+msgstr "Consultoría cultural para hacer negocios en otros países"
+
+#: ../language-services.php:82
+msgid ""
+"Covalingua will help your company gain the cultural proficiency and the "
+"marketing competitive edge required to enter the US market or to take a US "
+"operation abroad. Covalingua’s knowledgeable Business Relocation Consultants "
+"will help you and your companies develop and implement winning strategies "
+"and new communication channels to share your vision with your new potential "
+"customers and employees. Our 1 day workshop program focuses on four main "
+"modules:"
+msgstr ""
+"Covalingua ayudará a su empresa a alcanzar la competencia cultural y de "
+"marketing necesarias para entrar en el mercado exterior de su elección.Los "
+"consultores de traslados corporativos Covalingua le ayudarán a usted ya sus "
+"empresas desarrollar e implementar estrategias ganadoras que le permitan "
+"compartir su visión con sus nuevos clientes potenciales y empleados. "
+
+#: ../language-services.php:84
+msgid "Knowing Before Your Land - First Business Needs "
+msgstr "Antes del traslado. Necesidades básicas. "
+
+#: ../language-services.php:85
+msgid ""
+"Managing your Expatriate Employees Needs Before Departure / Upon Arrival"
+msgstr "Gestión de empleados expatriados antes y después del traslado"
+
+#: ../language-services.php:86
+msgid "Developing New Marketing and Communication Strategies"
+msgstr "Desarrollar nuevas estrategias de márketing y de comunicación "
+
+#: ../language-services.php:87
+msgid "Localizing, Training, and Retaining Multicultural Human Capital"
+msgstr "Locallizar, formar y retener capital humano multicultural"
+
+#: ../language-services.php:89
+msgid ""
+"These four modules are briefly presented during the one-day workshop and can "
+"be dealt with in depth separately for an extended period of time depending "
+"on your company’s particular needs."
+msgstr ""
+"Los cuatro módulos de orientación al expatriado pueden presentarse "
+"brevemente durante una jornada o en profundidad según las necesidades del "
+"cliente. "
+
+#: ../language-services.php:89 ../language-services.php:92
+msgid "download program brochure"
+msgstr "descargue el programa"
+
+#: ../language-services.php:91
+msgid ""
+"Covalingua will help you manage your expat needs before and upon arrival, "
+"minimizing relocation downtime and expenses. This module, which can be "
+"presented as a one day workshop is about sharing repatriation solutions, "
+"training and resources, providing comprehensive referrals for housing, "
+"medical and schooling needs, presenting our language programs for "
+"expatriates and their family members."
+msgstr ""
+"El servicio integral de Covalingua - CovaSolutions le ayudará a manejar su "
+"inversión y su equipo expatriado minimizando el tiempo de inactividad y los "
+"gastos de reubicación. Si usted lo solicita le proporcionaremos ayuda a la "
+"hora de seleccionar vivienda, opciones de trasnporte, colegios, servicios "
+"médicos y seguros al igual que información general sobre el país y la "
+"sociedad.  Asimismo, ofrecemos programas de idiomas para los expatriados y "
+"sus familias."
+
+#: ../language-services.php:92
+msgid ""
+"We offer our ongoing friendly support and have all the useful information "
+"that you might need when landing in the US or Spain"
+msgstr ""
+"Le ofrecemos un servicio de atención continuo para que usted y su equipo "
+"dispongan de toda la información útil cuando se trasladen desde EE.UU a "
+"España o viceversa."
+
+#: ../language-services.php:94
+msgid "Relax, we are on top of it!"
+msgstr "Relax, nosotros nos ocupamos!"
+
+#: ../language-services.php:95
+msgid ""
+"Project Management consists of creating and managing human teams to match "
+"your specific needs at any given time. We are well aware of the amount of "
+"work involved in creating a good team. By working with us, you can simplify "
+"the process, delegate on us and save yourself some time. We are one easy step"
+msgstr ""
+"La gestión de proyectos consiste en crear y gestionar equipos humanos de "
+"linguistas y editores profesionales para satisfacer sus necesidades "
+"específicas en un momento dado. Somos muy conscientes de la cantidad de "
+"trabajo que implica la creación de un buen equipo. Al trabajar con nosotros, "
+"puede simplificar el proceso y delegarlo en quienes conocen las "
+"particularidades de este sector. "
+
+#: ../language-services.php:96
+msgid ""
+"Your projects will be guided by an Expert Project Manager who will work with "
+"you to compile all the project specifications and reference material. The "
+"assigned Project Manager is a member of the COVALINGUA team and is always "
+"available to answer all your questions and comments before or after your "
+"project starts."
+msgstr ""
+"Sus proyectos serán gestionados por un director de proyecto experto que "
+"trabajará con usted para recopilar todas las especificaciones del proyecto y "
+"material de referencia. El director de proyecto asignado es un miembro del "
+"equipo Covalingua y está siempre disponible para responder a todas sus "
+"preguntas y comentarios antes o después del inicio de su proyecto de "
+"traducción. "
+
+#: ../language-services.php:98
+msgid ""
+"Covalingua offers seminars and workshops that empower its collaborators and "
+"clients to perform better in what they do. Our most recent workshops are "
+"taught on your desired location and include:"
+msgstr ""
+"Covalingua - CovaSolutions ofrece seminarios y talleres que permiten a sus "
+"colaboradores y clientes a obtener mejores resultados. Nuestros talleres más "
+"recientes incluyen:"
+
+#: ../language-services.php:103
+msgid "Moving Business Operations from Spain &gt; US &#150; US &gt; Spain"
+msgstr "MBO Spain-USA Traslado de Operaciones de España a EE.UU."
+
+#: ../language-services.php:104
+msgid "download program brochure and request a workshop"
+msgstr "descarge el programa y pida cita"
+
+#: ../language-services.php:110
+msgid "ISS Introduction to Interpreting Seminar"
+msgstr ""
+"ISS Seminario de Introducción a la interpretación consecutiva en los negocios"
+
+#: ../language-services.php:111 ../language-services.php:117
+msgid "download brochure"
+msgstr "descargar folleto"
+
+#: ../language-services.php:122
+msgid "How to take your company from Spain to the US"
+msgstr "Cómo trasladar una empresa de España a los EE.UU."
+
+#: ../language-services.php:127 ../services.php:49 ../services.php:71
+msgid "Request a quote"
+msgstr "Solicite un presupuesto"
+
+#: ../news.php:12
+msgid "CovaSolutions News"
+msgstr "Noticias de CovaSolutions"
+
+#: ../partners.php:13
+msgid "Partners and collaborators include:"
+msgstr "Algunos de nuestros colaboradores incluyen:"
+
+#: ../search.php:5
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: ../search.php:31
+msgid "No Posts Found"
+msgstr "No se han encontrado resultados"
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr "Buscar por"
+
+#: ../searchform.php:6
+msgid "Search"
+msgstr "Buscar"
+
+#: ../services.php:14
+msgid "Services for the Global Arena"
+msgstr "Servicios para un mercado global"
+
+#: ../services.php:15
+msgid ""
+"Some of our services include Document Translation, Language Localization, "
+"Professional Interpreting, Language & Cross-Cultural Training for Busy "
+"Professionals. With offices in the US and Europe, we can easily manage your "
+"global projects while taking advantage of the time difference."
+msgstr ""
+"Algunos de nuestros servicios incluyen traducción de documentos, "
+"localización de idioma y de estrategias, servicios de interpretación, "
+"Idiomas y formación intercultural para personal expatriado o haciendo "
+"negocios en otra cultura, etc.. Nuestras oficinas en EE.UU. y Europa nos "
+"permiten manejar fácilmente cualquier proyectos global aprovechando la "
+"diferencia horaria."
+
+#: ../services.php:17
+msgid ""
+"Covalingua & CovaSolutions is a Spain-US group empowering medium size "
+"Spanish companies during their expansion abroad."
+msgstr ""
+"Cova Solutions es una consultora que facilita la implantación de empresas "
+"españolas en el extranjero."
+
+#: ../services.php:18
+msgid ""
+"Covasolutions&#39; services minimize the time and cost of moving business "
+"operations between the US and Spain, particularly during the landing period."
+msgstr ""
+"CovaSolutions trabaja para minimizar el tiempo y optimizar la inversion de "
+"las empresas que buscan trasladar sus operaciones comerciales, "
+"particularmente durante el período de implantación."
+
+#: ../services.php:22
+msgid "General Services"
+msgstr "Servicios generales"
+
+#: ../services.php:25
+msgid "Training on Spain-US Business Culture"
+msgstr "Formación en cultura empresarial por país"
+
+#: ../services.php:26
+msgid "Advise on Target Locations (State(s)/City)"
+msgstr "Asesoramiento en mercados objetivo (región /estado)"
+
+#: ../services.php:27
+msgid "Identification of Partners and Key US Team Members"
+msgstr "Identificación de socios locales y miembros del equipo (RR.HH)"
+
+#: ../services.php:28
+msgid "Initial Business Matchmaking and Power Networking"
+msgstr "Establecimiento de relaciones comerciales de alto nivel"
+
+#: ../services.php:29
+msgid "Preparation of 1st Meeting Agenda"
+msgstr "Preparación de agendas de viaje iniciales y protocolarias"
+
+#: ../services.php:30
+msgid "Temporary Representation "
+msgstr "Representación temporal en destino"
+
+#: ../services.php:31
+msgid "Marketing Adaptation Strategy"
+msgstr "Adaptación de la estrategia de márketing"
+
+#: ../services.php:32
+msgid "Human Capital Resources"
+msgstr "Recursos Humanos en el mercado objetivo"
+
+#: ../services.php:33
+msgid "Language Programs for Executives "
+msgstr "Programas de idiomas para expatriados"
+
+#: ../services.php:34
+msgid "Specialized Document Translation"
+msgstr "Servicios de traducción especializada"
+
+#: ../services.php:35
+msgid "Interpreting Services"
+msgstr "Servicios de interpretación profesional"
+
+#: ../services.php:43
+msgid ""
+"Your investment is more reliable and easy to control thanks to our 11 month "
+"method, a business development program divided into 4 phases. Each phase is "
+"designed based on our accumulated experience and will ensure the optimal "
+"utilization of your company resources. Our goal is to bring you to a point "
+"where you and your team will be capable of making educated decisions "
+"regarding your investment and your opportunities in the desired market. This "
+"is possible after 11 months of monitored business development work in the "
+"selected US area. (Ref. Moving Business Operations Spain-US Method)."
+msgstr ""
+"Su inversión es más fiable y fácil de controlar gracias a nuestro método de "
+"11 meses, un programa de desarrollo de negocio dividido en 4 fases. Cada "
+"fase busca la utilización óptima de los recursos de la empresa y se "
+"corresponde al ciclo natural de este tipo de procesos. Nuestro objetivo es "
+"que usted y su equipo sean capaces de tomar  una decisón de inversión con "
+"toda la información en mano. Esto es posible gracias a nuestro proceso MBO "
+"de 11 meses. (Ver el Método MBO de traslado de operaciones de negocios al "
+"extranjero )."
+
+#: ../services.php:57
+msgid "Some of our"
+msgstr "Algunos de nuestros"
+
+#: ../services.php:57
+msgid "services "
+msgstr "servicios "
+
+#: ../services.php:57
+msgid ""
+"include Document Translation, Language Localization, Professional "
+"Interpreting, Language & Cross-Cultural Training for Busy Professionals. "
+"With offices in the US and Europe, we can easily manage your global projects "
+"while taking advantage of the time difference."
+msgstr ""
+"incluyen traducción de documentos, localización de idioma y de estrategias, "
+"servicios de interpretación, Idiomas y formación intercultural para personal "
+"expatriado o haciendo negocios en otra cultura, etc.. Nuestras oficinas en "
+"EE.UU. y Europa nos permiten manejar fácilmente cualquier proyectos global "
+"aprovechando la diferencia horaria."
+
+#: ../sidebar.php:11
+msgid "Archives"
+msgstr "Archivos"
+
+#: ../sidebar.php:16
+msgid "Categories"
+msgstr "Catergorías"
+
+#: ../sidebar.php:23
+msgid "Meta"
+msgstr "Meta"
+
+#: ../sidebar.php:27
+msgid "Wordpress"
+msgstr "Wordpress"
+
+#: ../sidebar.php:31
+msgid "Subscribe"
+msgstr "Seguir"
+
+#: ../sidebar.php:33
+msgid "Entries (RSS)"
+msgstr "Entradas"
+
+#: ../sidebar.php:34
+msgid "Comments (RSS)"
+msgstr "Comentarios "
+
+#, fuzzy
+#~ msgid "International Business Development and Language Services"
+#~ msgstr "Servicios de desarrollo de negocio"
+
+#~ msgid "Phase 1 Initial Project Assessment (1-2 month)"
+#~ msgstr "Fase 1 Evaluación inicial de proyecto (1-2 meses)"
+
+#~ msgid "Phase 2 Business Prospecting (2-3 months)"
+#~ msgstr "Fase 2 Desarrollo de posibles clientes (2-3 meses)"
+
+#~ msgid "Phase 3 MBO Process (6 months)"
+#~ msgstr "Fase 3 Proceso MBO de desarrollo de negocio (6 meses)"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenido"

@@ -1,0 +1,14 @@
+
+.demo {
+  background-color: #fff;
+  background-repeat: repeat-y;
+  background-image: url(../img/12_col.gif);
+}
+
+.demo p {
+	border: 1px solid #666;
+	overflow: hidden;
+	padding: 10px 0;
+	text-align: center;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,203 @@
+#homepageHeader {
+    position: relative;
+    background: @white;
+    border-bottom: 1px solid @grayLighter;
+    
+    .container_12 {
+        position: relative;
+        .clearfix();
+    }
+    
+    a.btn { text-decoration: none; }
+}
+
+.flexslider .slides > li {
+    position: relative;
+}
+
+.flex-caption {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -480px;
+    width: 960px;
+    z-index: 2;
+
+    > div {
+        background-color: rgba(255, 255, 255, 0.75);
+        padding: 25px;
+        border: 1px solid #e3e3e3;
+        border-radius: 2px;
+    }
+    
+    .right {
+        float: right;
+        width: 50%;
+        margin: 50px 0.625em 50px 0;
+    }
+    
+    .left {
+        float: left;
+        width: 50%;
+        margin: 50px 0 50px 0.625em;
+    }
+
+    .light { background-color: rgba(255, 255, 255, 0.85); }
+    
+    h2.header {
+        margin-bottom: 10px;
+        font-size: 36px;
+        font-weight: 700;
+        font-style: normal;
+        text-transform: uppercase;
+        line-height: 1;
+    }
+    .subhead {
+        margin-bottom: 20px;
+    }
+}
+
+
+
+//////////////////////////////////////////////////////
+// FlexSlider Styles (Banner Rotator)
+//////////////////////////////////////////////////////
+
+// Browser Resets
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+// FlexSlider Necessary Styles
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+
+// Clearfix for the .slides element
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+
+// No JavaScript Fallback
+// If you are not using another script, such as Modernizr, make sure you
+// include js that eliminates this class on page load
+.no-js .slides > li:first-child {display: block;}
+
+// Custom Styles
+#homepageHeader .flexslider {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    .clearfix();
+
+
+    .slides > li { max-height: 400px; } //388px; }
+
+    img {
+        position: relative;
+        max-width: none;
+        width: 100%;
+        z-index: 1;
+    }
+
+    .flex-direction-nav {
+        position: absolute;
+        right: 15px;
+        bottom: 15px;
+
+        li { float: left; }
+        
+        a {
+            display: block;
+            width: 30px;
+            height: 30px;
+            background: url(../img/bg_direction_nav.png) no-repeat 0 0;
+            z-index: 10;
+            cursor: pointer;
+            text-indent: -9999px;
+            //opacity: 0;
+            .transition(all .3s ease);
+        }
+
+        .flex-next { background-position: -30px 0; }
+    }
+}
+
+@media only screen and (min-width: 1301px) {
+
+    #homepageHeader .flexslider img {
+        max-width: 100%;
+        width: 100%;
+    }
+
+}
+
+// Animate height on initial load
+.loading .flex-viewport { max-height: 0; }
+
+.flex-viewport {    
+    max-height: 2000px;
+    .transition(all .8s ease-in-out);
+}
+
+// Styles for content area of homepage
+.home-profile {
+	padding-right:15px;
+    a {display: inline-block; margin-top:25px;}
+}
+
+
+.home-latestpost{
+
+}
+
+.home-news-thumb {
+    float:left;
+    margin-right: 10px;
+    border:1px solid @grayLighter;
+}
+
+
+.home-news-content {
+	overflow:hidden;
+	
+	a {font-weight: bold;}
+	margin-bottom:25px;
+
+}
+
+.home-news-excerpt {
+	font-size:.85em;
+
+}
+
+.home-tweets {
+	padding-left:15px;
+}
+
+
+@media screen and (min-width: 1600px) {
+    #homepageHeader .flexslider {
+        img.liberty-image {
+            margin-top: -50px;
+        }
+
+        img.flag-image {
+            margin-top: -80px;
+        }
+    }
+}
+
+@media screen and (min-width: 1650px) {
+    #homepageHeader .flexslider {
+        img.plane-image {
+            margin-top: -70px;
+        }
+    }
+}

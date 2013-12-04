@@ -1,0 +1,34 @@
+.mbo-image {
+    float: left;
+    margin: 25px 75px 0 25px;
+}
+
+.mbo-text-wrap {
+    .clearfix();
+    overflow: hidden;
+    margin-top: 40px;
+
+    h4 {
+        padding-bottom: 5px;
+        border-bottom: 1px solid @grayLighter;
+        
+        &:before {
+            content: "1.";
+            margin-right: 5px;
+        }
+        
+        ~ h4:before { content: "2."; }
+        ~ h4 ~ h4:before { content: "3."; }
+        ~ h4 ~ h4 ~ h4:before { content: "4."; }
+    }
+    
+    ul {
+        .clearfix();
+        margin-bottom: 2.5em;
+    }
+    
+    li {
+        float: left;
+        width: 50%;
+    }
+}

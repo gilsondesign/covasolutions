@@ -1,0 +1,378 @@
+// Browser resets and styling defaults
+@import "defaults.less"; // If there is site styling in this file, it should be separated from browser resets.
+
+// Core variables and mixins
+@import "variables.less"; // Modify this for custom colors, font-sizes, etc
+@import "mixins.less";
+@import "buttons-inputs.less";  // buttons and inputs from bootstrap
+
+@import "home.less";  // Homepage styles
+@import "news.less";  // Homepage styles
+@import "company.less";  // Company styles
+@import "services.less";  // Services styles
+@import "cross-market-consulting.less";  // Cross Marketing Consulting styles
+
+*,
+*:before,
+*:after {
+    .box-sizing(border-box);
+}
+
+// Utility testing class -- delete later!
+.red { border:solid 1px red; }
+
+
+// Form base styling
+// These are overrides. Either we remove the original styles, modify them, or override them like so: 
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+    display: inline-block;
+    height: auto;
+    width: 100%; // If this is problematic... let's remove it and do something else
+    padding: 4px 6px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+    .border-radius(2px);
+    vertical-align: middle;
+}
+
+a {color: @blue;}
+a:hover {color: @green;}
+
+h1 {
+    font-size: 28px;
+    font-weight: 700;
+	margin-bottom:18px;
+	font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px solid @grayLighter;
+    margin-bottom: 15px;
+	line-height: 2;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+
+p, a, li {
+	font-size:13px;
+	line-height:20px;
+}
+
+.btn {text-decoration: none;}
+
+/* And here begins the Wordpress fun.
+-------------------------------------------------------------------------------*/
+
+#page-wrap {width: 100%; background:#e4e4e4}
+
+#header {
+	width:100%;
+	background:@green url(../img/LogoUnderlay.png) repeat-y;
+	border-bottom:1px solid #9aac25;
+}
+
+#logo {
+    padding: 1.9em 0 0 0;
+}
+
+#menuWrapper {
+	padding:1.2em 0em 0em 0em;
+	text-align:right;
+	margin:0em;
+}
+
+#languageSwitcher {
+	font-size:.8em;
+	float:right;
+	
+	.viewIn {
+		float: left;
+		margin-top: 0.5em;
+		margin-right: .5em;
+	}
+	
+	#sidebar {
+		float:left;
+	}
+	
+	select {
+		width: 90px;
+		border: 1px solid #cccccc;
+		background-color: #ffffff;
+	}
+}
+
+nav {
+	z-index:10000;
+	margin-top: 3em;
+
+	ul li:hover > ul {
+		display: block;
+	}
+
+	ul { 
+		list-style: none;
+		position: relative;
+		display: inline-table;
+		
+		:after {
+			content: ""; 
+			clear: both; 
+			display: block;
+		}
+		
+		li:last-child a {
+				padding-right:0em;
+			}
+		
+		
+		li {
+			float: left;
+			
+			a {
+				display: block; 
+				padding: .8em;
+				color: @white; 
+				text-decoration: none;
+			}
+			
+			
+			
+			
+			
+			&:hover {
+				
+							
+				a {
+					color: @gray;
+				}
+			}
+		}
+		
+		ul {
+			display: none;
+			background: @white; 
+			z-index:10001;
+			border:1px solid @grayLighter;
+			border-radius: 0px; 
+			position: absolute; 
+			top: 100%;
+			.box-shadow(0px 0px 6px 0px rgba(0,0,0,.25));
+			
+			.arrow-up {
+				margin-top:-.5em;
+				margin-left:2.5em;
+				width: 0; 
+				height: 0; 
+				border-left: .5em solid transparent;
+				border-right: .5em solid transparent;
+				
+				border-bottom: .5em solid @white;
+			}
+			
+			hr {
+				margin: 0em 0;
+			}
+		
+			li {
+				float: none; 
+				position: relative;
+				text-align:left;
+				color:@gray;
+				width:20em;
+				
+				a {
+					padding:1.3em;
+					
+					&:hover {
+						background: @grayLight;
+						color:@white;
+					}
+				}
+			}
+			
+			ul {
+				position: absolute; 
+				left: 100%; 
+				top:0;
+			}
+		}
+	}
+	
+	
+
+}
+
+
+.contentBackground {
+	background:@white;
+	width:100%;
+	padding:2.5em 0em 4em 0em;
+}
+.post {}
+
+.entry-content {}
+.entry-content a {}
+.entry-content a:hover {}
+
+#meta {}
+.postmetadata {}
+
+#sidebar {}
+
+.navgation {}
+.next-posts {}
+.prev-posts {}
+
+#searchform {}
+#s {}
+#searchsubmt {}
+	
+ol.commentlist {list-style: none;}
+ol.commentlist li {}
+ol.commentlist li.alt {}
+ol.commentlist li.bypostauthor {}
+ol.commentlist li.byuser {}
+ol.commentlist li.comment-author-admin {}
+ol.commentlist li.comment {border-bottom: 0.063em dotted #666; padding: 0.625em;}
+ol.commentlist li.comment div.comment-author {}
+ol.commentlist li.comment div.commentmetadata {}
+ol.commentlist li.comment div.comment-meta {font-size: 0.625em;}
+ol.commentlist li.comment div.comment-meta a {color: #ccc;}
+ol.commentlist li.comment p {}
+ol.commentlist li.comment ul {}
+ol.commentlist li.comment div.reply {font-size: 10.0.688em;}
+ol.commentlist li.comment div.reply a {font-weight: bold;}
+ol.commentlist li.comment ul.children {list-style: none; margin: 0.625em 0 0;}
+ol.commentlist li.comment ul.children li {}
+ol.commentlist li.comment ul.children li.alt {}
+ol.commentlist li.comment ul.children li.bypostauthor {}
+ol.commentlist li.comment ul.children li.byuser {}
+ol.commentlist li.comment ul.children li.comment {}
+ol.commentlist li.comment ul.children li.comment-author-admin {}
+ol.commentlist li.comment ul.children li.depth-2 {border-left: 0.313em solid #555; margin: 0 0 0.625em 0.625em;}
+ol.commentlist li.comment ul.children li.depth-3 {border-left: 0.313em solid #999; margin: 0 0 0.625em 0.625em;}
+ol.commentlist li.comment ul.children li.depth-4 {border-left: 0.313em solid #bbb; margin: 0 0 0.625em 0.625em;}
+ol.commentlist li.comment ul.children li.depth-5 {}
+ol.commentlist li.comment ul.children li.odd {}
+ol.commentlist li.even {background: #fff;}
+ol.commentlist li.odd {background: #f6f6f6;}
+ol.commentlist li.parent {border-left: 0.313em solid #111;}
+ol.commentlist li.thread-alt {}
+ol.commentlist li.thread-even {}
+ol.commentlist li.thread-odd {}
+
+#footer {
+	background:#000000;
+	width:100%;
+	padding:2.500em 0em;
+	color: @grayLighter;
+	
+	a {
+		color: @blue;
+		text-decoration:underline;
+		
+		&:hover {
+			color: @grayLighter;
+			text-decoration:none;
+		}
+	}
+	
+	p {
+		font-size:.9em;
+		line-height:1.5em;
+	}
+	
+	h4 {margin-bottom:15px; color:#FFFFFF;}
+	
+	hr {
+		color:@grayLighter;
+		margin:.4em 0em 1em 0em;
+	}
+	
+	#contactInfo {
+		margin-top:1em;
+	}
+	
+	#copyright { 
+		margin-top:2em;
+		color:@grayDark;
+		font-size:.8em;
+	}
+	
+		
+	.contactFormButton {
+		padding-top:.8em;
+	}
+	
+	#socialMedia {
+		.socialMediaIcon {
+			float:left;
+			display:block;
+			margin-right:.5em;
+		}
+	}
+	
+	
+}
+
+
+
+
+
+/* Print styles!
+-------------------------------------------------------------------------------*/
+@media print {
+
+
+
+}
+
+
+/* Media queries!
+-------------------------------------------------------------------------------*/
+
+/* Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+	
+		
+}
+
+@media all and (orientation: portrait) {
+	
+}
+
+@media all and (orientation: landscape) {
+	
+}
